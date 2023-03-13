@@ -1,0 +1,8 @@
+numpy
+torch
+stanza==1.3.0
+spacy
+overrides
+tarjan
+gensim
+transformers==4.22.0
